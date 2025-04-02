@@ -1,4 +1,5 @@
 import {Outlet,Link} from 'react-router-dom';
+import FooterComponent from './Footer';
 
 let HeaderComponent = () => {
     return (
